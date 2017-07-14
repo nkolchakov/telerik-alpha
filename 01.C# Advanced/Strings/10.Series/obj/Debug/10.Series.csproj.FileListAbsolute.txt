@@ -1,0 +1,5 @@
+D:\Telerik-Alpha\01.C# Advanced\Strings\10.Series\bin\Debug\10.Series.exe.config
+D:\Telerik-Alpha\01.C# Advanced\Strings\10.Series\bin\Debug\10.Series.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\10.Series\bin\Debug\10.Series.pdb
+D:\Telerik-Alpha\01.C# Advanced\Strings\10.Series\obj\Debug\10.Series.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\10.Series\obj\Debug\10.Series.pdb

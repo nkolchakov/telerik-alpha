@@ -1,0 +1,6 @@
+D:\Telerik-Alpha\01.C# Advanced\DeepDive\DeepDive\bin\Debug\DeepDive.exe.config
+D:\Telerik-Alpha\01.C# Advanced\DeepDive\DeepDive\bin\Debug\DeepDive.exe
+D:\Telerik-Alpha\01.C# Advanced\DeepDive\DeepDive\bin\Debug\DeepDive.pdb
+D:\Telerik-Alpha\01.C# Advanced\DeepDive\DeepDive\obj\Debug\DeepDive.csprojResolveAssemblyReference.cache
+D:\Telerik-Alpha\01.C# Advanced\DeepDive\DeepDive\obj\Debug\DeepDive.exe
+D:\Telerik-Alpha\01.C# Advanced\DeepDive\DeepDive\obj\Debug\DeepDive.pdb

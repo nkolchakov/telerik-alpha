@@ -1,0 +1,5 @@
+D:\Telerik-Alpha\01.C# Advanced\Strings\08.ParseURL\bin\Debug\08.ParseURL.exe.config
+D:\Telerik-Alpha\01.C# Advanced\Strings\08.ParseURL\bin\Debug\08.ParseURL.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\08.ParseURL\bin\Debug\08.ParseURL.pdb
+D:\Telerik-Alpha\01.C# Advanced\Strings\08.ParseURL\obj\Debug\08.ParseURL.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\08.ParseURL\obj\Debug\08.ParseURL.pdb

@@ -1,0 +1,5 @@
+D:\Telerik-Alpha\01.C# Advanced\Strings\02.CorrectBrackets\bin\Debug\02.CorrectBrackets.exe.config
+D:\Telerik-Alpha\01.C# Advanced\Strings\02.CorrectBrackets\bin\Debug\02.CorrectBrackets.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\02.CorrectBrackets\bin\Debug\02.CorrectBrackets.pdb
+D:\Telerik-Alpha\01.C# Advanced\Strings\02.CorrectBrackets\obj\Debug\02.CorrectBrackets.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\02.CorrectBrackets\obj\Debug\02.CorrectBrackets.pdb

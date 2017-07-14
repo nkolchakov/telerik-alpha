@@ -1,0 +1,6 @@
+D:\Telerik-Alpha\MultidimensionalArrays\05.Bishop\bin\Debug\05.Bishop.exe.config
+D:\Telerik-Alpha\MultidimensionalArrays\05.Bishop\bin\Debug\05.Bishop.exe
+D:\Telerik-Alpha\MultidimensionalArrays\05.Bishop\bin\Debug\05.Bishop.pdb
+D:\Telerik-Alpha\MultidimensionalArrays\05.Bishop\obj\Debug\05.Bishop.csprojResolveAssemblyReference.cache
+D:\Telerik-Alpha\MultidimensionalArrays\05.Bishop\obj\Debug\05.Bishop.exe
+D:\Telerik-Alpha\MultidimensionalArrays\05.Bishop\obj\Debug\05.Bishop.pdb

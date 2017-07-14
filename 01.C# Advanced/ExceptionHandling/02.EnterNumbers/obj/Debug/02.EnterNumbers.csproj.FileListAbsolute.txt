@@ -1,0 +1,6 @@
+D:\Telerik-Alpha\01.C# Advanced\ExceptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
+D:\Telerik-Alpha\01.C# Advanced\ExceptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
+D:\Telerik-Alpha\01.C# Advanced\ExceptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
+D:\Telerik-Alpha\01.C# Advanced\ExceptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
+D:\Telerik-Alpha\01.C# Advanced\ExceptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb
+D:\Telerik-Alpha\01.C# Advanced\ExceptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache

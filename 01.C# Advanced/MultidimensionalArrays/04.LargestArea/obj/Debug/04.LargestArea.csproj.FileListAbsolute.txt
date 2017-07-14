@@ -1,0 +1,6 @@
+D:\Telerik-Alpha\MultidimensionalArrays\04.LargestArea\bin\Debug\04.LargestArea.exe.config
+D:\Telerik-Alpha\MultidimensionalArrays\04.LargestArea\bin\Debug\04.LargestArea.exe
+D:\Telerik-Alpha\MultidimensionalArrays\04.LargestArea\bin\Debug\04.LargestArea.pdb
+D:\Telerik-Alpha\MultidimensionalArrays\04.LargestArea\obj\Debug\04.LargestArea.exe
+D:\Telerik-Alpha\MultidimensionalArrays\04.LargestArea\obj\Debug\04.LargestArea.pdb
+D:\Telerik-Alpha\MultidimensionalArrays\04.LargestArea\obj\Debug\04.LargestArea.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Telerik-Alpha\01.C# Advanced\Strings\05.StringLength\bin\Debug\05.StringLength.exe.config
+D:\Telerik-Alpha\01.C# Advanced\Strings\05.StringLength\bin\Debug\05.StringLength.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\05.StringLength\bin\Debug\05.StringLength.pdb
+D:\Telerik-Alpha\01.C# Advanced\Strings\05.StringLength\obj\Debug\05.StringLength.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\05.StringLength\obj\Debug\05.StringLength.pdb

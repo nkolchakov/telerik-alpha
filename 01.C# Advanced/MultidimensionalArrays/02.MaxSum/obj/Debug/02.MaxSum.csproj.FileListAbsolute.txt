@@ -1,0 +1,6 @@
+D:\Telerik-Alpha\MultidimensionalArrays\02.MaxSum\bin\Debug\02.MaxSum.exe.config
+D:\Telerik-Alpha\MultidimensionalArrays\02.MaxSum\bin\Debug\02.MaxSum.exe
+D:\Telerik-Alpha\MultidimensionalArrays\02.MaxSum\bin\Debug\02.MaxSum.pdb
+D:\Telerik-Alpha\MultidimensionalArrays\02.MaxSum\obj\Debug\02.MaxSum.csprojResolveAssemblyReference.cache
+D:\Telerik-Alpha\MultidimensionalArrays\02.MaxSum\obj\Debug\02.MaxSum.exe
+D:\Telerik-Alpha\MultidimensionalArrays\02.MaxSum\obj\Debug\02.MaxSum.pdb

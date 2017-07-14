@@ -1,0 +1,5 @@
+D:\Telerik-Alpha\01.C# Advanced\Strings\03.SubstringInText\bin\Debug\03.SubstringInText.exe.config
+D:\Telerik-Alpha\01.C# Advanced\Strings\03.SubstringInText\bin\Debug\03.SubstringInText.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\03.SubstringInText\bin\Debug\03.SubstringInText.pdb
+D:\Telerik-Alpha\01.C# Advanced\Strings\03.SubstringInText\obj\Debug\03.SubstringInText.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\03.SubstringInText\obj\Debug\03.SubstringInText.pdb

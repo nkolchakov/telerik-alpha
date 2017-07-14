@@ -1,0 +1,5 @@
+D:\Telerik-Alpha\01.C# Advanced\Strings\07.UnicodeCharacters\bin\Debug\07.UnicodeCharacters.exe.config
+D:\Telerik-Alpha\01.C# Advanced\Strings\07.UnicodeCharacters\bin\Debug\07.UnicodeCharacters.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\07.UnicodeCharacters\bin\Debug\07.UnicodeCharacters.pdb
+D:\Telerik-Alpha\01.C# Advanced\Strings\07.UnicodeCharacters\obj\Debug\07.UnicodeCharacters.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\07.UnicodeCharacters\obj\Debug\07.UnicodeCharacters.pdb

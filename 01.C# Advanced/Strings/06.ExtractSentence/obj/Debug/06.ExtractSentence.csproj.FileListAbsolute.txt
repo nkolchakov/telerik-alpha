@@ -1,0 +1,6 @@
+D:\Telerik-Alpha\01.C# Advanced\Strings\06.ExtractSentence\bin\Debug\06.ExtractSentence.exe.config
+D:\Telerik-Alpha\01.C# Advanced\Strings\06.ExtractSentence\bin\Debug\06.ExtractSentence.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\06.ExtractSentence\bin\Debug\06.ExtractSentence.pdb
+D:\Telerik-Alpha\01.C# Advanced\Strings\06.ExtractSentence\obj\Debug\06.ExtractSentence.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\06.ExtractSentence\obj\Debug\06.ExtractSentence.pdb
+D:\Telerik-Alpha\01.C# Advanced\Strings\06.ExtractSentence\obj\Debug\06.ExtractSentence.csprojResolveAssemblyReference.cache

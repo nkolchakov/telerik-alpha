@@ -1,0 +1,6 @@
+D:\Telerik-Alpha\MultidimensionalArrays\03.Sequence\bin\Debug\03.Sequence.exe.config
+D:\Telerik-Alpha\MultidimensionalArrays\03.Sequence\bin\Debug\03.Sequence.exe
+D:\Telerik-Alpha\MultidimensionalArrays\03.Sequence\bin\Debug\03.Sequence.pdb
+D:\Telerik-Alpha\MultidimensionalArrays\03.Sequence\obj\Debug\03.Sequence.csprojResolveAssemblyReference.cache
+D:\Telerik-Alpha\MultidimensionalArrays\03.Sequence\obj\Debug\03.Sequence.exe
+D:\Telerik-Alpha\MultidimensionalArrays\03.Sequence\obj\Debug\03.Sequence.pdb

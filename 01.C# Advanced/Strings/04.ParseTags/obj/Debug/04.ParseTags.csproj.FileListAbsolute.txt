@@ -1,0 +1,6 @@
+D:\Telerik-Alpha\01.C# Advanced\Strings\04.ParseTags\bin\Debug\04.ParseTags.exe.config
+D:\Telerik-Alpha\01.C# Advanced\Strings\04.ParseTags\bin\Debug\04.ParseTags.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\04.ParseTags\bin\Debug\04.ParseTags.pdb
+D:\Telerik-Alpha\01.C# Advanced\Strings\04.ParseTags\obj\Debug\04.ParseTags.exe
+D:\Telerik-Alpha\01.C# Advanced\Strings\04.ParseTags\obj\Debug\04.ParseTags.pdb
+D:\Telerik-Alpha\01.C# Advanced\Strings\04.ParseTags\obj\Debug\04.ParseTags.csprojResolveAssemblyReference.cache
