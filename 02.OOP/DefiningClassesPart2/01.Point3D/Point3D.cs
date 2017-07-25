@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace _01.Point3D
 {
+    [Serializable]
     public struct Point3D
     {
         private static readonly Point3D start;
