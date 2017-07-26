@@ -38,26 +38,23 @@ namespace Academy.Core.Factories
 
         public IStudent CreateStudent(string username, string track)
         {
-            // TODO: Implement this
-            throw new NotImplementedException("Student class not attached to factory.");
+            return new Student(username, track);
         }
 
         public ITrainer CreateTrainer(string username, string technologies)
         {
-            // TODO: Implement this
-            throw new NotImplementedException("Trainer class not attached to factory.");
+            return new Trainer(username, technologies);
         }
 
         public ICourse CreateCourse(string name, string lecturesPerWeek, string startingDate)
         {
-            // TODO: Implement this
-            throw new NotImplementedException("Course class not attached to factory.");
+
+            return new Course(name, lecturesPerWeek, startingDate);
         }
 
         public ILecture CreateLecture(string name, string date, ITrainer trainer)
         {
-            // TODO: Implement this
-            throw new NotImplementedException("Lecture class not attached to factory.");
+            return new Lecture(name, date, trainer);
         }
 
         public ILectureResource CreateLectureResource(string type, string name, string url)
@@ -65,23 +62,29 @@ namespace Academy.Core.Factories
             // Use this instead of DateTime.Now if you want any points in BGCoder!!
             var currentDate = DateTimeProvider.Now;
 
-            //switch (type)
-            //{
-            //    case "video":
-            //    case "presentation": 
-            //    case "demo": 
-            //    case "homework": 
-            //    default: throw new ArgumentException("Invalid lecture resource type");
-            //}
+            ResourceType parseResourceAsEnum;
+            Enum.TryParse<ResourceType>(type, true, out parseResourceAsEnum);
 
-            // TODO: Implement this
-            throw new NotImplementedException("LectureResource classes not attached to factory.");
+            switch (parseResourceAsEnum)
+            {
+                case ResourceType.Video:
+                    return new VideoResource(name, url, currentDate);
+                case ResourceType.Presentation:
+                    return new PresentationResource(name, url);
+                case ResourceType.Demo:
+                    return new DemoResource(name, url);
+                case ResourceType.Homework:
+                    return new HomeworkResource(name, url, currentDate.AddDays(7));
+                default: throw new ArgumentException("Invalid lecture resource type");
+            }
+
+            //// TODO: Implement this
+            //throw new NotImplementedException("LectureResource classes not attached to factory.");
         }
 
         public ICourseResult CreateCourseResult(ICourse course, string examPoints, string coursePoints)
         {
-            // TODO: Implement this
-            throw new NotImplementedException("CourseResult class not attached to factory.");
+            return new CourseResult(course, examPoints, coursePoints);
         }
     }
 }
