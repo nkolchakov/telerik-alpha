@@ -1,0 +1,3 @@
+[submodule "Teamworks/01.OOP/BDS_Tanks"]
+	path = Teamworks/01.OOP/BDS_Tanks
+	url = https://github.com/nkolchakov/BDS_Tanks.git
