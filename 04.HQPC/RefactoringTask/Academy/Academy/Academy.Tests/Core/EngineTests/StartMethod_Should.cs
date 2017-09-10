@@ -101,7 +101,8 @@ namespace Academy.Tests.Core.EngineTests
                 .Throws<ArgumentOutOfRangeException>();
 
             var databaseList = new List<string>();
-            databaseMock.SetupGet(d => d.ExecutionResult).Returns(databaseList);
+            databaseMock.SetupGet(d => d.ExecutionResult)
+                .Returns(databaseList);
 
             // Act
             engine.Start();
@@ -132,7 +133,8 @@ namespace Academy.Tests.Core.EngineTests
                 .Throws<Exception>();
 
             var databaseList = new List<string>();
-            databaseMock.SetupGet(d => d.ExecutionResult).Returns(databaseList);
+            databaseMock.SetupGet(d => d.ExecutionResult)
+                .Returns(databaseList);
 
             // Act
             engine.Start();

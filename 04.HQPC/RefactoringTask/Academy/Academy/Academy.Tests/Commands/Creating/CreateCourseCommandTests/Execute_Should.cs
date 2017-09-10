@@ -17,6 +17,7 @@ namespace Academy.Tests.Commands.Creating.CreateCourseCommandTests
         [TestMethod]
         public void ShouldCreateAddCourseToDatabaseAndReturnSuccessMessage_WhenParametersAreValid()
         {
+            // Arrange
             var seasonMock = new Mock<ISeason>();
             var databaseMock = new Mock<IDatabase>();
             var factoryMock = new Mock<IAcademyFactory>();
@@ -47,8 +48,11 @@ namespace Academy.Tests.Commands.Creating.CreateCourseCommandTests
             var createCourseCommand = new CreateCourseCommand(factoryMock.Object, databaseMock.Object);
 
             string expectedsuccessMessage = "Course with ID 0 was created in Season 0.";
+
+            // Act
             string successMessage = createCourseCommand.Execute(parametersList);
 
+            // Assert
             Assert.AreEqual(course, seasonMock.Object.Courses.Single());
             Assert.AreEqual(expectedsuccessMessage, successMessage);
         }

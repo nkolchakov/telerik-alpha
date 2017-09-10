@@ -1,5 +1,6 @@
 ﻿using Academy.Commands.Contracts;
 using Academy.Utils;
+using Bytes2you.Validation;
 using System;
 using System.Collections.Generic;
 
@@ -12,6 +13,9 @@ namespace Academy.Commands.Decorator
 
         public LogCreateCommandDecorator(ICommand command, IDateTimeProvider dateTimeProvider)
         {
+            Guard.WhenArgument(command, "command").IsNull().Throw();
+            Guard.WhenArgument(dateTimeProvider, "dateTimeProvider").IsNull().Throw();
+
             this.command = command;
             this.dateTimeProvider = dateTimeProvider;
         }
