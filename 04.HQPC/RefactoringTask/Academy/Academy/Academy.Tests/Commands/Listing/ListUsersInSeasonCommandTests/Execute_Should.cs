@@ -41,6 +41,7 @@ namespace Academy.Tests.Commands.Listing.ListUsersInSeasonCommandTests
             string result = listCommand.Execute(parametersList);
 
             // Assert
+            mockedSeason.Verify(s => s.ListUsers(), Times.Once);
             Assert.AreEqual(expectedResult, result);
         }
 

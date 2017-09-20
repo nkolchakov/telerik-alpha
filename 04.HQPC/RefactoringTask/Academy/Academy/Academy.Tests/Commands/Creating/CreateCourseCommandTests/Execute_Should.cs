@@ -56,6 +56,8 @@ namespace Academy.Tests.Commands.Creating.CreateCourseCommandTests
             Assert.AreEqual(course, seasonMock.Object.Courses.Single());
             Assert.AreEqual(expectedsuccessMessage, successMessage);
         }
+        
+        // one more unit test only for successful message
 
         [TestMethod]
         public void ShouldThrowArgumentOutOfRangeException_WhenParametersListIsNotFull()
