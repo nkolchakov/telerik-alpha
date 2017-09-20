@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.NestedLoops", "01.NestedLoops\01.NestedLoops.csproj", "{12AFFDFC-4146-4541-A102-931D428CC2E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Combinations", "02.Combinations\02.Combinations.csproj", "{473E6AFA-B042-419E-9758-E356ED070322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Permutations", "03.Permutations\03.Permutations.csproj", "{13930E02-6578-462B-8B0E-B1C0E15B877C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.KElementSubset", "05.KElementSubset\05.KElementSubset.csproj", "{BDDC6B58-45ED-4686-A893-F624E09F0B8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SubsetOfKStrings", "06.SubsetOfKStrings\06.SubsetOfKStrings.csproj", "{58FAB0A4-A5A0-4D60-969B-BC285D644029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Maze", "07.Maze\07.Maze.csproj", "{3741D26E-4995-4B0E-8309-8AD09A86940C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12AFFDFC-4146-4541-A102-931D428CC2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AFFDFC-4146-4541-A102-931D428CC2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AFFDFC-4146-4541-A102-931D428CC2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AFFDFC-4146-4541-A102-931D428CC2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473E6AFA-B042-419E-9758-E356ED070322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473E6AFA-B042-419E-9758-E356ED070322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473E6AFA-B042-419E-9758-E356ED070322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473E6AFA-B042-419E-9758-E356ED070322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13930E02-6578-462B-8B0E-B1C0E15B877C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13930E02-6578-462B-8B0E-B1C0E15B877C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13930E02-6578-462B-8B0E-B1C0E15B877C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13930E02-6578-462B-8B0E-B1C0E15B877C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDC6B58-45ED-4686-A893-F624E09F0B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDC6B58-45ED-4686-A893-F624E09F0B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDC6B58-45ED-4686-A893-F624E09F0B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDC6B58-45ED-4686-A893-F624E09F0B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FAB0A4-A5A0-4D60-969B-BC285D644029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FAB0A4-A5A0-4D60-969B-BC285D644029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FAB0A4-A5A0-4D60-969B-BC285D644029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FAB0A4-A5A0-4D60-969B-BC285D644029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3741D26E-4995-4B0E-8309-8AD09A86940C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3741D26E-4995-4B0E-8309-8AD09A86940C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3741D26E-4995-4B0E-8309-8AD09A86940C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3741D26E-4995-4B0E-8309-8AD09A86940C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
