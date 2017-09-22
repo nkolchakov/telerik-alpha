@@ -15,30 +15,7 @@
 
         private void QuickSort(IList<T> collection, int pivotIndex)
         {
-            if (pivotIndex == 0)
-            {
-                return;
-            }
-            
-            var left = new List<T>();
-            var right = new List<T>();
-
-            for (int i = 0; i < collection.Count; i++)
-            {
-                if (i == pivotIndex)
-                {
-                    continue;
-                }
-                if (collection[pivotIndex].CompareTo(collection[i]) > 0)
-                {
-                    left.Add(collection[i]);
-                }
-                else
-                {
-                    right.Add(collection[i]);
-                }
-            }
-            
+            // TODO: in-place implementation
 
         }
     }
