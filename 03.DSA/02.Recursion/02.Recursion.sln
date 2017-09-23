@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+VisualStudioVersion = 15.0.26730.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.NestedLoops", "01.NestedLoops\01.NestedLoops.csproj", "{12AFFDFC-4146-4541-A102-931D428CC2E8}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SubsetOfKStrings", "06.SubsetOfKStrings\06.SubsetOfKStrings.csproj", "{58FAB0A4-A5A0-4D60-969B-BC285D644029}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Maze", "07.Maze\07.Maze.csproj", "{3741D26E-4995-4B0E-8309-8AD09A86940C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.StringsPermutations", "08.StringsPermutations\08.StringsPermutations.csproj", "{90FAE1AB-0F16-41DE-BB7D-7381206E462A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,8 +47,15 @@ Global
 		{3741D26E-4995-4B0E-8309-8AD09A86940C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3741D26E-4995-4B0E-8309-8AD09A86940C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3741D26E-4995-4B0E-8309-8AD09A86940C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90FAE1AB-0F16-41DE-BB7D-7381206E462A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FAE1AB-0F16-41DE-BB7D-7381206E462A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FAE1AB-0F16-41DE-BB7D-7381206E462A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FAE1AB-0F16-41DE-BB7D-7381206E462A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABE9C57C-31F4-4E2B-B34E-39C2B8A9EDB0}
 	EndGlobalSection
 EndGlobal
